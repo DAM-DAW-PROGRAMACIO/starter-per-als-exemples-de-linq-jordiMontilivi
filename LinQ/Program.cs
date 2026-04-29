@@ -1,0 +1,11 @@
+﻿
+namespace LinQ
+{
+internal class Program
+    {
+        static void Main(string[] args)
+        {
+            ExemplesLinq.ExecutaComplet();
+        }
+    }
+}
